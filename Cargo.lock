@@ -95,7 +95,7 @@ dependencies = [
 
 [[package]]
 name = "bddkit-etcd"
-version = "0.3.0"
+version = "0.3.1"
 dependencies = [
  "bddkit-crate-json",
  "etcd-client",
